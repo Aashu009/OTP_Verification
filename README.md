@@ -1,4 +1,5 @@
 # OTP Email Verification App using Python & Streamlit
+link : https://otp-verification-1.streamlit.app/
 
 This is a simple web application built using Python and Streamlit to perform email-based OTP (One-Time Password) verification. The app generates a 4-digit OTP, sends it to the user's email address, and verifies the entered OTP.
 
